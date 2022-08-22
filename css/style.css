@@ -198,7 +198,6 @@ main {
 
 .wallpaper {
     width: 100%;
-    /*Static Wallpaper*/
     background-image: url('/images/wallpaper.jpg');
     background-size: cover;
     background-position: center;
