@@ -4,10 +4,15 @@
 
 A clone of the League of Legends Login Screen, developed using HTML, CSS and JavaScript.
 
+Link: [View Demo](https://zejsneto.github.io/Clone-LoL-Login-Screen)<br>
+
 ---
 
 ## 👁️‍🗨️ Preview
-Link: [View Demo](https://zejsneto.github.io/Clone-LoL-Login-Screen)<br>
+<p align="center" >
+  <img width="70%" src="/repository-imgs/img01.png" />
+</p>
+
 
 ---
 
